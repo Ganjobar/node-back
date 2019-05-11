@@ -1,9 +1,26 @@
 {
-    "name": "modulesapp",
-    "version": "1.0.0",
-    "dependencies": {
-        "git": "^0.1.5",
-        "mysql": "^2.17.1",
-        "node": "^12.2.0"
-    }
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "git": "^0.1.5",
+    "mysql": "^2.17.1",
+    "node": "^12.2.0"
+  },
+  "main": "connection.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganjobar/node-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganjobar/node-back/issues"
+  },
+  "homepage": "https://github.com/Ganjobar/node-back#readme",
+  "description": ""
 }
